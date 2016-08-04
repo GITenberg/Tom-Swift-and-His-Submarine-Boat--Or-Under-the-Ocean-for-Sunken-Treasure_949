@@ -1,0 +1,27 @@
+_repo: Tom-Swift-and-His-Submarine-Boat--Or-Under-the-Ocean-for-Sunken-Treasure_949
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Tom Swift and His Submarine Boat; Or, Under the Ocean for Sunken Treasure
+url: http://www.gutenberg.org/ebooks/949
